@@ -1,0 +1,13 @@
+{
+"companyName": "ApathyGameStudios",
+"productName": "Angle Simulator",
+"dataUrl": "WebBuild4.data.unityweb",
+"wasmCodeUrl": "WebBuild4.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebBuild4.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"}
+}
